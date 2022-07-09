@@ -8,7 +8,7 @@ It also consists of the submitted patch files of the various tasks assigned duri
 ---
 #### 1. Interface with a stock price data feed [Code](https://github.com/SaharshLaud/JPMorgan-Chase-Perspective-Tool/tree/main/1.%20Interface%20with%20a%20stock%20price%20data%20feed)
 - Interface with a stock price data feed and set your system for analysis of data
-- `Finalcial Data` 
+- `Financial Data` 
 - `Python3`
 - `Git`
 - `Basic Programming`
